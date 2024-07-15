@@ -3,7 +3,7 @@
   "palette": {
     "primary": "#F0DB4F",
     "secondary": "#323330",
-    "active": "#3179c7"
+    "active": "#ddc948"
   },
   "blocks": [
     {
@@ -14,7 +14,16 @@
           "foreground": "p:secondary",
           "leading_diamond": "\ue0b6",
           "style": "diamond",
-          "template": "{{ if .WSL }}WSL at {{ end }}{{.Icon}} ",
+          "template": "",
+          "trailing_diamond": "\ue0b4 ",
+          "type": "root"
+        },
+        {
+          "background": "p:primary",
+          "foreground": "p:secondary",
+          "leading_diamond": "\ue0b6",
+          "style": "diamond",
+          "template": "{{.Icon}} ",
           "trailing_diamond": "\ue0b4 ",
           "type": "os"
         },
