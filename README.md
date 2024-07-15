@@ -4,11 +4,11 @@
 </div>
 
 <div align="center">
-    <img width="40%" src="https://raw.githubusercontent.com/ErikGIovani/oh-my-posh-themes/main/images/snowball.png" />
+    <img width="100%" src="https://raw.githubusercontent.com/ErikGIovani/oh-my-posh-themes/main/images/snowball.png" />
     <h2>Snowball</h2>
 </div>
 
 <div align="center">
-    <img width="40%" src="https://raw.githubusercontent.com/ErikGIovani/oh-my-posh-themes/main/images/javascript.png" />
+    <img width="100%" src="https://raw.githubusercontent.com/ErikGIovani/oh-my-posh-themes/main/images/javascript.png" />
     <h2>JavaScript</h2>
 </div>
